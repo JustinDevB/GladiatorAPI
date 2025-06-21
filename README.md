@@ -14,9 +14,9 @@ Maven:
  
 
 	<dependency>
-	    <groupId>com.github.JustinDevB</groupId>
-	    <artifactId>GladiatorAPI</artifactId>
-     	    <scope>provided</scope>
-	    <version>-SNAPSHOT</version>
+		<groupId>com.github.JustinDevB</groupId>
+		<artifactId>GladiatorAPI</artifactId>
+		<scope>provided</scope>
+		<version>-SNAPSHOT</version>
 	</dependency>
 
