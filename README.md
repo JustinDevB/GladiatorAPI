@@ -1,14 +1,14 @@
-API usage
+# API usage
 
 Maven:
 
 
-<repositories>
-	<repository>
-		<id>jitpack.io</id>
-		<url>https://jitpack.io</url>
-	</repository>
-</repositories>
+> <repositories>
+ 	<repository>
+		 <id>jitpack.io</id>
+		 <url>https://jitpack.io</url>
+ 	</repository>
+ </repositories>
 
 
  
