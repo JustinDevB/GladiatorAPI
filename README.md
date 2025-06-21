@@ -16,6 +16,7 @@ Maven:
 	<dependency>
 	    <groupId>com.github.JustinDevB</groupId>
 	    <artifactId>GladiatorAPI</artifactId>
-	    <version>LATEST</version>
+     	    <scope>provided</scope>
+	    <version>-SNAPSHOT</version>
 	</dependency>
 
